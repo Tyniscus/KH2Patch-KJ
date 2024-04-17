@@ -11,24 +11,40 @@ assets:
     source:
     - name: msg/sys.yml
       language: en
+
 # Icon Replacement
 - name: remastered/obj/AL14_PLAYER.a.us/-8.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/obj/AL14_PLAYER.a.us/-8.dds
+  - name: portraits/Base/normal.dds
 - name: remastered/obj/P_EX100.a.us/-8.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/obj/P_EX100.a.us/-8.dds
-- name: remastered/obj/P_EX100_AL_CARPET.a.us/-8.dds
+  - name: portraits/Base/normal.dds
+- name: remastered/obj/PO08_PLAYER.a.us/-0.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/obj/P_EX100_AL_CARPET.a.us/-8.dds
+  - name: portraits/Base/normal.dds
+- name: remastered/obj/P_EX100.a.us/-8.dds
+  platform: pc
+  method: copy
+  source:
+  - name: portraits/Base/normal.dds
 - name: remastered/obj/P_EX100_SIDECAR.a.us/-8.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/obj/P_EX100_SIDECAR.a.us/-8.dds
+  - name: portraits/Base/normal.dds
+- name: remastered/obj/P_EX110.a.us/-8.dds
+  platform: pc
+  method: copy
+  source:
+  - name: portraits/Base/roxas.dds
+- name: remastered/obj/P_EX110_BTLF.a.us/-8.dds
+  platform: pc
+  method: copy
+  source:
+  - name: portraits/Base/roxas.dds
