@@ -1,5 +1,5 @@
-title: Tyniscus Patch (KJ)
-description: Replaces Sora's UI text elements with KJ.
+title: Character Patch (Kamau)
+description: Replaces Sora's UI elements with Kamau.
 assets:
 # Text Elements
 - name: msg/us/sys.bar
@@ -11,3 +11,24 @@ assets:
     source:
     - name: msg/sys.yml
       language: en
+# Icon Replacement
+- name: remastered/obj/AL14_PLAYER.a.us/-8.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/AL14_PLAYER.a.us/-8.dds
+- name: remastered/obj/P_EX100.a.us/-8.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100.a.us/-8.dds
+- name: remastered/obj/P_EX100_AL_CARPET.a.us/-8.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_AL_CARPET.a.us/-8.dds
+- name: remastered/obj/P_EX100_SIDECAR.a.us/-8.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.us/-8.dds
