@@ -17,37 +17,37 @@ assets:
   platform: pc
   method: copy
   source:
-  - name: portraits/Base/normal.dds
+  - name: portraits/Default/normal.dds
 - name: remastered/obj/P_EX100.a.us/-8.dds
   platform: pc
   method: copy
   source:
-  - name: portraits/Base/normal.dds
+  - name: portraits/Default/normal.dds
 - name: remastered/obj/PO08_PLAYER.a.us/-0.dds
   platform: pc
   method: copy
   source:
-  - name: portraits/Base/normal.dds
+  - name: portraits/Default/normal.dds
 - name: remastered/obj/P_EX100.a.us/-8.dds
   platform: pc
   method: copy
   source:
-  - name: portraits/Base/normal.dds
+  - name: portraits/Default/normal.dds
 - name: remastered/obj/P_EX100_SIDECAR.a.us/-8.dds
   platform: pc
   method: copy
   source:
-  - name: portraits/Base/normal.dds
+  - name: portraits/Default/normal.dds
 - name: remastered/obj/P_EX110.a.us/-0.dds
   platform: pc
   method: copy
   source:
-  - name: portraits/Base/roxas.dds
+  - name: portraits/Default/roxas.dds
 - name: remastered/obj/P_EX110_BTLF.a.us/-0.dds
   platform: pc
   method: copy
   source:
-  - name: portraits/Base/roxas.dds
+  - name: portraits/Default/roxas.dds
 - name: remastered/obj/P_EX100_WI.a.us/-8.dds
   platform: pc
   method: copy
