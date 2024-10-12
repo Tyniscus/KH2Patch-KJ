@@ -90,6 +90,20 @@ assets:
   source:
   - name: portraits/Timeless/normal.dds
 
+# Halloween, Normal
+- name: remastered/obj/P_EX100_NM.a.us/-8.dds
+  platform: pc
+  method: copy
+  source:
+  - name: portraits/Halloween/normal.dds
+
+# Christmas, Normal
+- name: remastered/obj/P_EX100_XM.a.us/-8.dds
+  platform: pc
+  method: copy
+  source:
+  - name: portraits/Christmas/normal.dds
+
 # Roxas
 - name: remastered/obj/P_EX110.a.us/-0.dds
   platform: pc
